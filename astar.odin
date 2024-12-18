@@ -1,0 +1,5 @@
+package astar
+
+main :: proc() {
+
+}
